@@ -66,7 +66,7 @@ The folloing output should be:
 {"os.name":"Linux","user.name":"theia"}
 ```
 
-Once you have finished checking it out, change **io_openliberty_guides_system_inMaintenance** from **false** to **true**
+Once you have finished checking it out, change **io_openliberty_guides_system_inMaintenance** from **true** to **false** to set this condition back to its original value.
 
 Stop the Open Liberty server by pressing **CTRL+C** in the shell session where you ran the server. 
 
