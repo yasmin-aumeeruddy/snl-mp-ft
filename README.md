@@ -51,7 +51,7 @@ Navigate to **resources/CustomConfigSource.json** and Change the **io_openlibert
 
 ```json
 {"config_ordinal":500,
-"io_openliberty_guides_system_inMaintenance":false}
+"io_openliberty_guides_system_inMaintenance":true}
 ```
 
 Save the file [CMD + S]
