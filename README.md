@@ -230,7 +230,7 @@ To see that the **system** service is down, point your browser to the **system/p
 
 Go to **metrics/application** to see the following sample outputs for the **@Fallback** annotated method and the fallback method after a fallback occurs:
 
-`curl https://localhost:9443/metrics/application`
+`curl -k -u admin:adminpwd -D - https://localhost:9443/metrics/application`
 
 ```
 # TYPE application:ft_io_openliberty_guides_inventory_inventory_manager_get_invocations_total counter
