@@ -334,7 +334,7 @@ In addition, a few endpoint tests have been included for you to test the basic f
 
 ### Running the tests
 
-Since you started Open Liberty in development mode at the start of the guide, press the enter/return key to run the tests. You see the following output:
+Since you started Open Liberty in development mode at the start of the guide, press the **enter/return** key to run the tests. You see the following output:
 
 ```
 -------------------------------------------------------
